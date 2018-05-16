@@ -1,0 +1,1 @@
+INSERT INTO customer(id, first_name, last_name, email_address) VALUES(1, 'Alberto', 'Resco', 'aresco@pivotal.io');
